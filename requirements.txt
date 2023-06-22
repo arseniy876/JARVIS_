@@ -1,4 +1,4 @@
-SpeachRecognition
+SpeechRecognition
 pyAudio
 gTTS
 
